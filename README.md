@@ -1,2 +1,2 @@
-# python_stydy
+# python_study
 파이썬 문법 및 파이썬을 활용한 자료구조, 문제풀이 입니다
